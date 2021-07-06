@@ -1,6 +1,3 @@
-# MachineLearning
-机器学习课程设计
-
 ```python
 # 安装包
 !pip install seaborn
@@ -49395,4 +49392,3 @@ sub['SaleID'] = Test_data.SaleID
 sub['price'] = sub_Weighted
 sub.to_csv('./work/sub_Weighted.csv',index=False)
 ```
-
